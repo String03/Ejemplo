@@ -1,0 +1,6 @@
+C:\Users\fvg\source\Ejemplo\Operacion\bin\Debug\Operacion.dll
+C:\Users\fvg\source\Ejemplo\Operacion\bin\Debug\Operacion.pdb
+C:\Users\fvg\source\Ejemplo\Operacion\obj\Debug\Operacion.csproj.AssemblyReference.cache
+C:\Users\fvg\source\Ejemplo\Operacion\obj\Debug\Operacion.csproj.CoreCompileInputs.cache
+C:\Users\fvg\source\Ejemplo\Operacion\obj\Debug\Operacion.dll
+C:\Users\fvg\source\Ejemplo\Operacion\obj\Debug\Operacion.pdb

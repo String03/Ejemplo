@@ -1,0 +1,11 @@
+C:\Users\fvg\source\Ejemplo\Delegado\bin\Debug\Delegado.exe.config
+C:\Users\fvg\source\Ejemplo\Delegado\bin\Debug\Delegado.exe
+C:\Users\fvg\source\Ejemplo\Delegado\bin\Debug\Delegado.pdb
+C:\Users\fvg\source\Ejemplo\Delegado\bin\Debug\Operacion.dll
+C:\Users\fvg\source\Ejemplo\Delegado\bin\Debug\Operacion.pdb
+C:\Users\fvg\source\Ejemplo\Delegado\obj\Debug\Delegado.csproj.AssemblyReference.cache
+C:\Users\fvg\source\Ejemplo\Delegado\obj\Debug\Delegado.csproj.SuggestedBindingRedirects.cache
+C:\Users\fvg\source\Ejemplo\Delegado\obj\Debug\Delegado.csproj.CoreCompileInputs.cache
+C:\Users\fvg\source\Ejemplo\Delegado\obj\Debug\Delegado.csproj.CopyComplete
+C:\Users\fvg\source\Ejemplo\Delegado\obj\Debug\Delegado.exe
+C:\Users\fvg\source\Ejemplo\Delegado\obj\Debug\Delegado.pdb
